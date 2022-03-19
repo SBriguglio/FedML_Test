@@ -496,7 +496,7 @@ Even though FedML seems to focus heavily on extensibility and making it easy to 
 learning topology to near any environment in a manner that is easy and scalable, I personally have not
 found it as easy to use as other platforms. Primarily, this is due to a steep learning curve and, in
 my opinion, not very complete or detailed documentation. There does not appear to be any clean and
-quick tutorials that don't just leave how the code function to the interpretation of the data scientist. 
+quick tutorials that don't just leave how the code functions to the interpretation of the data scientist. 
 This adds a large initial time investment to using the platform, especially to those less experienced.
 Furthermore, FedML does not seem to natively support simulation using virtual machines (or networks 
 or PCs for that matter).
