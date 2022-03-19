@@ -498,6 +498,6 @@ found it as easy to use as other platforms. Primarily, this is due to a steep le
 my opinion, not very complete or detailed documentation. There does not appear to be any clean and
 quick tutorials that don't just leave how the code functions to the interpretation of the data scientist. 
 This adds a large initial time investment to using the platform, especially to those less experienced.
-Furthermore, FedML does not seem to natively support simulation using virtual machines (of networks 
-or PCs for that matter).
+Furthermore, FedML does not seem to natively support simulation using virtual machines (or networks 
+of PCs for that matter).
 
