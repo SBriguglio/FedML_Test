@@ -41,7 +41,7 @@ most of the information in this document)
 - very easy to scale up from standalone simulation to distributed computed and mobile deployments
 
 ### Library Architecture
-<img src="../FedML_Test/image_resources/fedml_architecture.jpg"/></br>
+<img src="https://github.com/SBriguglio/FedML_Test/blob/master/image_resources/fedml_architecture.jpg?raw=true"/></br>
 [image source: https://github.com/FedML-AI/FedML/blob/master/docs/image/fedml.jpg](https://github.com/FedML-AI/FedML)
 - The platform contains a number of packages for various use cases
 - Has two key components:
